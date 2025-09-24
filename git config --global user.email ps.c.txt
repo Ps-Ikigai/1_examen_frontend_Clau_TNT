@@ -1,0 +1,12 @@
+git config --global user.email "ps.claudiatapian@gmail.com"
+  git config --global user.name "Ps-Ikigai"
+
+
+En netlify
+
+profound-wisp-001b1a.netlify.app
+
+ URL 
+  ➜  Local:   http://localhost:5173/
+
+https://profound-wisp-001b1a.netlify.app/
